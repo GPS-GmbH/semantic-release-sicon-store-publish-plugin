@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-sicon-store-publish-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Publishes prepared git releases to the sicon app-store",
   "main": "index.js",
   "scripts": {
