@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/GPS-GmbH/semantic-release-sicon-store-publish-plugin#readme",
   "dependencies": {
-    "sicon-app-store-deploy": "^1.1.1"
+    "sicon-app-store-deploy": "^1.2.1"
   }
 }

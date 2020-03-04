@@ -371,10 +371,10 @@ resolve@^1.10.0:
   resolved "https://npmregistry.exa.sicon.io/semver/-/semver-5.7.1.tgz#a954f931aeba508d307bbf069eff0c01c96116f7"
   integrity sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==
 
-sicon-app-store-deploy@^1.1.1:
-  version "1.1.1"
-  resolved "https://npmregistry.exa.sicon.io/sicon-app-store-deploy/-/sicon-app-store-deploy-1.1.1.tgz#e722cead8c2c66935e3c2808c104d285258743a0"
-  integrity sha512-xgv1ZHth2l+4bsX5WhkKZSZNNuojaXBVgNeqsN8IrYSVKjtpS6ZdydbDxmiO50W7e/lf0e1OuTl/x7wrLUdhtA==
+sicon-app-store-deploy@^1.2.1:
+  version "1.2.1"
+  resolved "https://npmregistry.exa.sicon.io/sicon-app-store-deploy/-/sicon-app-store-deploy-1.2.1.tgz#ea3099de33ae43c3913b27bd1674b7a58d87313a"
+  integrity sha512-kwJiVpVbfaKaCsEJ1rVJBVP+RfzkRY0/8rsr6mjGYLbmoVSaV4futTAugXfyaImiWsBbHz8aNc4hbc4U7oqhlQ==
   dependencies:
     fs-extra "^8.1.0"
     get-stdin "^7.0.0"
